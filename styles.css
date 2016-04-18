@@ -19,3 +19,7 @@ img {
   border-radius: 10px;
   margin: 10px;
 }
+
+p {
+  padding: 0 10px;
+}
