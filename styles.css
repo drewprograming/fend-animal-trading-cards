@@ -1,5 +1,9 @@
 /* Custom style sheet */
 
+body {
+  font-family: Verdana, sans-serif;
+}
+
 .main {
   width: 320px;
   border: solid #ccc 1px;
