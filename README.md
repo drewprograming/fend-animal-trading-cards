@@ -1,4 +1,4 @@
-# Animl  Trading Cards
+# Animal Trading Cards
 
 ## Giant Panda
 
