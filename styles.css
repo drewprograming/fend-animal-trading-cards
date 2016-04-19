@@ -36,3 +36,13 @@ ul {
   list-style: none;
   padding: 0 10px;
 }
+
+li {
+  font-style: italic;
+}
+
+span {
+  font-style: normal;
+  font-weight: bold;
+}
+
